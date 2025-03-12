@@ -17,8 +17,8 @@ icon = "brand-github"
 
 [[social]]
 identifier = "知乎"
-name = "Twitter"
-url = "https://zhihu.com"
+name = "知乎"
+url = "https://www.zhihu.com/people/yan-song-92-20"
 
 [social.params]
 icon = "brand-twitter"
