@@ -1,8 +1,8 @@
 ---
 title: NAS 上相对安全和方便的 Gitea 搭建方法
-description: 暂无
+description: 本文介绍了作者因网络问题和国内平台监管问题，将私人代码从 GitHub 迁移到自建的 Gitea 服务的过程。作者推荐使用 Docker 搭建 Gitea 服务，因为 Docker 提供了数据迁移的灵活性和方便性。文章详细介绍了 Dockerfile 的配置方法，包括网络、服务、数据卷和端口映射的设置。此外，还介绍了如何通过 `app.ini` 文件进行配置，以及如何设置反向代理和端口转发以确保服务的可访问性。最后，作者分享了自己的部署方案，包括使用路由器进行反向代理和端口转发，确保 Gitea 服务的安全性和可用性。
 date: 2025-04-03 17:15:22
-categories: 
+categories:
     - NAS 网络附属存储
 tags:
     - 技术
